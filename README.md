@@ -1,6 +1,6 @@
-# ainstein
+# AInstein
 
-A new Flutter project.
+[Demo Video](https://sebaterrazas.github.io/#ainstein)
 
 ## Getting Started
 
